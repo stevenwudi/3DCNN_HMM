@@ -4,7 +4,7 @@ This is the code the challenge"Chalearn Looking at People 2014“.
 ******************************************************************************************************
 Gist:3DCNN(3D Convolutional Neural Networks) + Hidden Markov Networks
 ******************************************************************************************************
-by Di WU: stevenwudi@gmail.com, 2015/05/27
+by Di WU: stevenwudi@gmail.com, 2014/05/27
 
 
 
